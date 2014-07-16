@@ -789,21 +789,21 @@ span.chapter{
 {
 	opacity:.7
 }
-	section.current-projects .dribbble-projects-list
+	section.current-projects .hermanos-list
 {
 	*zoom:1
 }
-	section.current-projects .dribbble-projects-list:before,section.current-projects .dribbble-projects-list:after
+	section.current-projects .hermanos-list:before,section.current-projects .hermanos-list:after
 {
 	display:table;
 	content:"";
 	line-height:0
 }
-	section.current-projects .dribbble-projects-list:after
+	section.current-projects .hermanos-list:after
 {
 	clear:both
 }
-	section.current-projects .dribbble-projects-list a
+	section.current-projects .hermanos-list a
 {
 	display:block;
 	float:left;
@@ -811,11 +811,11 @@ span.chapter{
 	width:16.66666667%;
 	height:auto
 }
-	section.current-projects .dribbble-projects-list a:hover
+	section.current-projects .hermanos-list a:hover
 {
 	opacity:.7
 }
-	section.current-projects .dribbble-projects-list img
+	section.current-projects .hermanos-list img
 {
 	display:block;
 	width:100%;
@@ -823,7 +823,7 @@ span.chapter{
 }
 	@media screen and (max-width:1269px)
 {
-	section.current-projects .dribbble-projects-list a
+	section.current-projects .hermanos-list a
 {
 	width:33.333333333%
 }
@@ -835,7 +835,7 @@ span.chapter{
 {
 	font-size:26px
 }
-	section.current-projects .dribbble-projects-list a
+	section.current-projects .hermanos-list a
 {
 	width:50%
 }
